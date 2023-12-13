@@ -1,0 +1,23 @@
+</html>
+<html lang="en">
+<head>
+   <title>CSSPosition.</title>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>header, nav, article, aside, footer
+  {
+color: blueviolet;
+background-color: antiquewhite;
+min-height: 200 px;
+margin: 10 px;
+  } 
+  </style>
+</head>
+<body>
+   <nav> Here is where you go for navigation tools.</nav>
+   <section>
+      Now is the time for all good men to come to the aid of their country.
+   </section>
+   <footer>The footer is part of the body.</footer>
+</body>
+</html>
